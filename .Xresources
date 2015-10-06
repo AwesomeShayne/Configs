@@ -68,7 +68,7 @@ URxvt*foreground: white
 ! URxvt*borderColor: colour
 
 ! Select the fonts to be used. This
-URxvt*font: xft:monospace:bold:size=10 
+URxvt*font: xft:monospace:size=8 
 
 ! URxvt*boldFont: fontlist
 
